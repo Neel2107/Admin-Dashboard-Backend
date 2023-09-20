@@ -10,9 +10,9 @@ let users = [
   {
     id: 1,
     img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    lastName: "Hubbard",
-    firstName: "Eula",
-    email: "hubbard@gmail.com",
+    lastName: "Patel",
+    firstName: "Neel",
+    email: "neel@gmail.com",
     phone: "423 452 729",
     createdAt: "05.07.2023",
     verified: true,
